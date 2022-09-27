@@ -1,0 +1,19 @@
+section {
+  width: 40%;
+  margin: 20px auto 0 auto;
+  padding: 10px;
+  border: 1px dashed #000;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+#outResultado {
+  font-weight: bold;
+  height: 100%;
+  min-height: 100px;
+  padding: 5px;
+  background: #f8f8f8;
+}
